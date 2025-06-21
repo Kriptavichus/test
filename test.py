@@ -1,1 +1,1 @@
-import droch
+print('Привет мир')
